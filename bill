@@ -1,0 +1,3 @@
+red pricel 1,pricel 2
+sum=pricel1+pricel2
+print sum
